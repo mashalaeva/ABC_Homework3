@@ -28,6 +28,8 @@
 <54 57 61 64 67 70 74>
 
 В папке output_alphabet:
+
+
 ![Результат1](https://sun9-72.userapi.com/TlVYSRaA1G_kOX7XzBc7tEqHgl9h9wOcwc_2HA/zEGo-y8hy3A.jpg)
 ![Результат2](https://sun9-4.userapi.com/MmF2oyq_YqL-MAISxZE9USjbAV9CHwYAC7LcqQ/0oFD7IXt6-o.jpg)
 
@@ -49,6 +51,10 @@ Special symbols: ^?*()>
 Русский язык
 
 83733731502460 83136327706083: ^?*()> 
+
+
+В папке output_alphabet:
+
 
 ![Результат3](https://sun9-37.userapi.com/zZQA3uBDC_s6qA83IGnOjUomSHw44CXMqZRJnA/VzbBklWCHv8.jpg)
 ![Результат4](https://sun9-29.userapi.com/JKps_l8SMG6qaoODJTouwUebV3Xb29TAS4aXIQ/7NRREX4LGwY.jpg)
