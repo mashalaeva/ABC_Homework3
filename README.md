@@ -39,7 +39,9 @@
 
 Входные даныее:
 <English language
+
 Русский язык
+
 Special symbols: ^?*()>
   
 Выходные данные:
